@@ -41,7 +41,7 @@ body::before {
   position: fixed;
   inset: 0;
   z-index: -3;
-  background: #03040a url('../images/background.jpg') center center / cover no-repeat fixed;
+  background: #03040a url('../background.jpg') center center / cover no-repeat fixed;
   pointer-events: none;
 }
 body::after {
